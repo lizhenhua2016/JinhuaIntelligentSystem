@@ -1,0 +1,16 @@
+2017-11-19 08:33:09,110 [6] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page 'default.cshtml' in 576ms.
+2017-11-19 08:33:09,506 [6] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page '_Layout.cshtml' in 305ms.
+2017-11-19 08:33:51,620 [9] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page 'default.cshtml' in 225ms.
+2017-11-19 08:35:11,008 [13] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page 'default.cshtml' in 209ms.
+2017-11-19 08:35:36,281 [6] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page 'default.cshtml' in 213ms.
+2017-11-19 08:35:58,966 [18] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page 'default.cshtml' in 218ms.
+2017-11-19 10:02:14,296 [6] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page 'default.cshtml' in 462ms.
+2017-11-19 10:02:15,097 [6] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page '_Layout.cshtml' in 338ms.
+2017-11-19 10:03:12,836 [5] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page 'default.cshtml' in 629ms.
+2017-11-19 10:03:13,151 [5] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page '_Layout.cshtml' in 256ms.
+2017-11-19 10:04:02,611 [5] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page 'default.cshtml' in 228ms.
+2017-11-19 10:04:37,930 [5] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page 'default.cshtml' in 216ms.
+2017-11-19 10:06:05,345 [6] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page 'default.cshtml' in 457ms.
+2017-11-19 10:06:06,067 [6] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page '_Layout.cshtml' in 277ms.
+2017-11-19 14:15:37,592 [5] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page 'default.cshtml' in 545ms.
+2017-11-19 14:15:37,873 [5] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page '_Layout.cshtml' in 238ms.

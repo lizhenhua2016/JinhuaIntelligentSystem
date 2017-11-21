@@ -1,0 +1,37 @@
+﻿@inherits ViewPage
+
+<div>
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <div>
+                <label for="username">用户名</label>
+                <input type="text" id="username" class="form-control" name="username"/>
+            </div>
+            <div>
+                <label for="username">密码</label>
+                <input type="text" id="password" class="form-control" name="username"/>
+            </div>
+            
+            <button type="button" id="sub" class=" btn btn-default">submit</button>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <script type="text/javascript">
+        $(function() {
+            $("#sub").click(function() {
+                $.ajax({
+                    type: "Post",
+                    url: "/UserLogin/Login",
+                    dataType: "json",
+                    data: { "username": "13456949003", "password": "a123123" },
+                    success: function(data) {
+                        alert("abc");
+                    }
+                });
+            });
+            
+        });
+    </script>
+}
+
