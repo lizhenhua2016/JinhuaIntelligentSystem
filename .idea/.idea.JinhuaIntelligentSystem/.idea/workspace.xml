@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d72fa5d-8e9c-47aa-8efe-68c6f5b95469" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JinhuaIntelligentSystem/JinhuaIntelligentSystem/bin/JinhuaIntelligentSystem.dll" afterPath="$PROJECT_DIR$/JinhuaIntelligentSystem/JinhuaIntelligentSystem/bin/JinhuaIntelligentSystem.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JinhuaIntelligentSystem/JinhuaIntelligentSystem/bin/JinhuaIntelligentSystem.pdb" afterPath="$PROJECT_DIR$/JinhuaIntelligentSystem/JinhuaIntelligentSystem/bin/JinhuaIntelligentSystem.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JinhuaIntelligentSystem/JinhuaIntelligentSystem/obj/Debug/JinhuaIntelligentSystem.dll" afterPath="$PROJECT_DIR$/JinhuaIntelligentSystem/JinhuaIntelligentSystem/obj/Debug/JinhuaIntelligentSystem.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JinhuaIntelligentSystem/JinhuaIntelligentSystem/obj/Debug/JinhuaIntelligentSystem.pdb" afterPath="$PROJECT_DIR$/JinhuaIntelligentSystem/JinhuaIntelligentSystem/obj/Debug/JinhuaIntelligentSystem.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.JinhuaIntelligentSystem/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.JinhuaIntelligentSystem/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JinhuaIntelligentSystem/JinhuaIntelligentSystem/default.cshtml" afterPath="$PROJECT_DIR$/JinhuaIntelligentSystem/JinhuaIntelligentSystem/default.cshtml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,7 +78,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="240" />
     <option name="y" value="131" />
     <option name="width" value="1440" />
@@ -105,7 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -119,6 +113,7 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,11 +165,13 @@
       <workItem from="1511261215514" duration="643000" />
       <workItem from="1511311077602" duration="3310000" />
       <workItem from="1511317582350" duration="2162000" />
+      <workItem from="1511402654861" duration="652000" />
+      <workItem from="1511432238922" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27087000" />
+    <option name="totallyTimeSpent" value="28337000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -186,7 +183,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -196,8 +194,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17110874" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17430703" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -207,6 +204,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -239,6 +237,46 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JinhuaIntelligentSystem/JinhuaIntelligentSystem/default.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1511313738788" expanded="true" signature="20:571" ph="&lt;div.../&gt;" />
+            <marker date="1511313738788" expanded="true" signature="30:564" ph="&lt;div.../&gt;" />
+            <marker date="1511313738788" expanded="true" signature="72:553" ph="&lt;div.../&gt;" />
+            <marker date="1511313738788" expanded="true" signature="109:271" ph="&lt;div.../&gt;" />
+            <marker date="1511313738788" expanded="true" signature="284:445" ph="&lt;div.../&gt;" />
+            <marker date="1511313738788" expanded="true" signature="572:1094" ph="@{...}" />
+            <marker date="1511313738788" expanded="true" signature="594:1092" ph="&lt;script.../&gt;" />
+            <marker date="1511313738788" expanded="true" signature="647:1076" ph="{...}" />
+            <marker date="1511313738788" expanded="true" signature="688:1051" ph="{...}" />
+            <marker date="1511313738788" expanded="true" signature="713:1035" ph="{...}" />
+            <marker date="1511313738788" expanded="true" signature="956:1017" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JinhuaIntelligentSystem/JinhuaIntelligentSystem/default.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1511313738788" expanded="true" signature="20:571" ph="&lt;div.../&gt;" />
+            <marker date="1511313738788" expanded="true" signature="30:564" ph="&lt;div.../&gt;" />
+            <marker date="1511313738788" expanded="true" signature="72:553" ph="&lt;div.../&gt;" />
+            <marker date="1511313738788" expanded="true" signature="109:271" ph="&lt;div.../&gt;" />
+            <marker date="1511313738788" expanded="true" signature="284:445" ph="&lt;div.../&gt;" />
+            <marker date="1511313738788" expanded="true" signature="572:1094" ph="@{...}" />
+            <marker date="1511313738788" expanded="true" signature="594:1092" ph="&lt;script.../&gt;" />
+            <marker date="1511313738788" expanded="true" signature="647:1076" ph="{...}" />
+            <marker date="1511313738788" expanded="true" signature="688:1051" ph="{...}" />
+            <marker date="1511313738788" expanded="true" signature="713:1035" ph="{...}" />
+            <marker date="1511313738788" expanded="true" signature="956:1017" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JinhuaIntelligentSystem/JinhuaIntelligentSystem/default.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
