@@ -1,0 +1,3 @@
+2017-11-22 09:21:58,993 [6] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page 'default.cshtml' in 436ms.
+2017-11-22 09:21:59,325 [6] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page '_Layout.cshtml' in 299ms.
+2017-11-22 09:22:19,710 [10] ServiceStack.Razor.Managers.RazorViewManager - Compiled Razor page 'default.cshtml' in 244ms.
