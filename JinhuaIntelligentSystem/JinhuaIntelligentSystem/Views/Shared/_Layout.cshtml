@@ -1,26 +1,25 @@
 ﻿<!DOCTYPE html>
-<html lang="zh-cn">
-  <head>
+<html lang="zh-CN">
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>ServiceStack with Bootstrap</title>
     <link href="/Content/bootstrap.min.css" rel="stylesheet">
-      <link href="/Content/bootstrap-theme.min.css" rel="stylesheet">
-      @RenderSection("Style",false)
-  </head>
-    <body>       
-        
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">@RenderBody()</div>
-        </div>
-        
+    <link href="/Content/bootstrap-theme.min.css" rel="stylesheet">
+    @RenderSection("Style", false)
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">@RenderBody()</div>
     </div>
-        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-        <script src="~/Scripts/jquery-3.2.1.min.js"></script>
-        <!-- Include all compiled plugins (below), or include individual files as needed -->
-        <script src="/scripts/bootstrap.min.js"></script>
-        @RenderSection("Scripts",false)
-    </body>
+</div>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="~/Scripts/jquery-3.2.1.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/scripts/bootstrap.min.js"></script>
+@RenderSection("Scripts", false)
+</body>
 </html>
